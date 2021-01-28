@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
-namespace PractiseBackEnd.Controllers
+namespace Auth.Controllers
 {
     [ApiController]
     [Route("[controller]")]
