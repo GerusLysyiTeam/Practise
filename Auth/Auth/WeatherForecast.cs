@@ -1,6 +1,6 @@
 using System;
 
-namespace PractiseBackEnd
+namespace Auth
 {
     public class WeatherForecast
     {
